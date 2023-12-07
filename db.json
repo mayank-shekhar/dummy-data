@@ -1,87 +1,754 @@
 {
-  "list2": {
-    "items": [
-      {
-        "cond": "clouds",
-        "condHeader": "Let the clouds spark imagination!",
-        "condProdMsg": "Looks like it might rain! Stock up for outdoors fun!",
-        "condObj": [
+  "amp2": {
+    "response1": {
+      "items": [
           {
-            "name": "Retro Rush",
-            "url": "https://www.northerntrailoutfitters.com/default/women%E2%80%99s-%E2%80%9992-retro-rush-rain-jacket-2010710.html",
-            "img": "https://www.northerntrailoutfitters.com/on/demandware.static/-/Sites-nto-apparel/default/dw6f177421/images/large/2010710ACT-0.jpg"
-          },
-          {
-            "name": "Anorak Hoodie",
-            "url": "https://www.northerntrailoutfitters.com/default/men%27s-anorak-1010438BBG.html",
-            "img": "https://www.northerntrailoutfitters.com/on/demandware.static/-/Sites-nto-apparel/default/dw72f128a8/images/large/1010438BBG-0.jpg"
-          },
-          {
-            "name": "Rainier Hoodie",
-            "url": "https://www.northerntrailoutfitters.com/default/men%27s-rainier-integrum-primaloft-hoodie-1010271AKF.html",
-            "img": "https://www.northerntrailoutfitters.com/on/demandware.static/-/Sites-nto-apparel/default/dw2e540093/images/large/1010271AKF-0.jpg"
+              "hasAppt": false,
+              "apptDate": "",
+              "apptISO": "",
+              "days": [
+                  {
+                      "name": "Friday",
+                      "month": "December",
+                      "date": 8,
+                      "location": [
+                          {
+                              "ID": "0196",
+                              "name": "NTO - Evanston, IL",
+                              "address": "2209 Howard St, IL, 60202-3636",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-8T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-8T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-8T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-8T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-8T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-8T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-8T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-8T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0189",
+                              "name": "NTO - Chicago - Peterson",
+                              "address": "2112 W Peterson Ave, IL, 60659-4277",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-8T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-8T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-8T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-8T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-8T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-8T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-8T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-8T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0188",
+                              "name": "NTO - Chicago Division",
+                              "address": "1200 N Larrabee St, IL, 60610",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-8T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-8T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-8T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-8T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-8T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-8T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-8T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-8T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0204",
+                              "name": "NTO - Melrose Park, IL",
+                              "address": "850 W North Ave, IL, 60160-1611",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-8T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-8T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-8T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-8T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-8T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-8T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-8T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-8T16:00:00.000Z"
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "name": "Saturday",
+                      "month": "December",
+                      "date": 9,
+                      "location": [
+                          {
+                              "ID": "0196",
+                              "name": "NTO - Evanston, IL",
+                              "address": "2209 Howard St, IL, 60202-3636",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-9T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-9T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-9T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-9T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-9T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-9T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-9T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-9T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0189",
+                              "name": "NTO - Chicago - Peterson",
+                              "address": "2112 W Peterson Ave, IL, 60659-4277",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-9T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-9T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-9T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-9T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-9T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-9T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-9T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-9T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0188",
+                              "name": "NTO - Chicago Division",
+                              "address": "1200 N Larrabee St, IL, 60610",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-9T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-9T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-9T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-9T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-9T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-9T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-9T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-9T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0204",
+                              "name": "NTO - Melrose Park, IL",
+                              "address": "850 W North Ave, IL, 60160-1611",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-9T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-9T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-9T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-9T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-9T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-9T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-9T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-9T16:00:00.000Z"
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "name": "Sunday",
+                      "month": "December",
+                      "date": 10,
+                      "location": [
+                          {
+                              "ID": "0196",
+                              "name": "NTO - Evanston, IL",
+                              "address": "2209 Howard St, IL, 60202-3636",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-10T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-10T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-10T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-10T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-10T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-10T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-10T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-10T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0189",
+                              "name": "NTO - Chicago - Peterson",
+                              "address": "2112 W Peterson Ave, IL, 60659-4277",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-10T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-10T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-10T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-10T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-10T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-10T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-10T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-10T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0188",
+                              "name": "NTO - Chicago Division",
+                              "address": "1200 N Larrabee St, IL, 60610",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-10T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-10T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-10T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-10T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-10T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-10T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-10T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-10T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0204",
+                              "name": "NTO - Melrose Park, IL",
+                              "address": "850 W North Ave, IL, 60160-1611",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-10T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-10T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-10T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-10T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-10T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-10T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-10T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-10T16:00:00.000Z"
+                                  }
+                              ]
+                          }
+                      ]
+                  },
+                  {
+                      "name": "Monday",
+                      "month": "December",
+                      "date": 11,
+                      "location": [
+                          {
+                              "ID": "0196",
+                              "name": "NTO - Evanston, IL",
+                              "address": "2209 Howard St, IL, 60202-3636",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-11T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-11T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-11T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-11T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-11T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-11T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-11T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-11T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0189",
+                              "name": "NTO - Chicago - Peterson",
+                              "address": "2112 W Peterson Ave, IL, 60659-4277",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-11T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-11T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-11T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-11T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-11T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-11T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-11T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-11T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0188",
+                              "name": "NTO - Chicago Division",
+                              "address": "1200 N Larrabee St, IL, 60610",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-11T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-11T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-11T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-11T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-11T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-11T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-11T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-11T16:00:00.000Z"
+                                  }
+                              ]
+                          },
+                          {
+                              "ID": "0204",
+                              "name": "NTO - Melrose Park, IL",
+                              "address": "850 W North Ave, IL, 60160-1611",
+                              "times": [
+                                  {
+                                      "display": "9:00am",
+                                      "iso": "2023-12-11T09:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "10:00am",
+                                      "iso": "2023-12-11T10:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "11:00am",
+                                      "iso": "2023-12-11T11:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "12:00am",
+                                      "iso": "2023-12-11T12:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "1:00pm",
+                                      "iso": "2023-12-11T13:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "2:00pm",
+                                      "iso": "2023-12-11T14:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "3:00pm",
+                                      "iso": "2023-12-11T15:00:00.000Z"
+                                  },
+                                  {
+                                      "display": "4:00pm",
+                                      "iso": "2023-12-11T16:00:00.000Z"
+                                  }
+                              ]
+                          }
+                      ]
+                  }
+              ]
           }
-        ],
-        "city": "New York"
-      }
-    ]
+      ]
+    }
   },
-
-  "list1": {
-    "items": [
-      {
-        "emailSender": null,
-        "products": [
-          {
-            "dayOfWeek": "Wednesday",
-            "dailyMsg": "Happy Wednesday! Looks like you left something in your cart!",
-            "id": "5112783BDS",
-            "url": "https://www.northerntrailoutfitters.com/default/pure-cycles-coaster-bike-5112783BDS.html",
-            "name": "Pure Cycles Coaster Bike",
-            "price": [
-              {
-                "discounted": false,
-                "discount_price": "$179.00",
-                "original_price": "$279.00"
-              }
-            ],
-            "shortDescription": "one speed, no cables, no nonsense : )",
-            "longDescription": "The Pure Cycles Coaster is biking made simple. 1 speed, no cables, no levers, no nonsense-just you, your bike and the road. It's great for quick errands, slow rolls and late-night party rides.",
-            "image": "https://image.s4.sfmc-content.com/lib/fe9815747266017d71/m/1/bafac201-a379-4c95-a4f3-ab08e4239747.jpg",
-            "inventory": [
-              {
-                "free_ship_incentive": true,
-                "items_in_stock": "9"
-              }
-            ],
-            "colors": [
-              "green",
-              "red",
-              "yellow",
-              "pink"
-            ],
-            "sizes": [
-              "50cm",
-              "54cm",
-              "58cm"
-            ],
-            "features": [
-              {
-                "feature": "Hands-free coaster brake allows easy, intuitive stopping—just push back on the pedals to stop"
-              },
-              {
-                "feature": "Lightweight steel frame is stronger than aluminum and helps to soften the vibrations of the road; sealed bottom bracket supplies smooth pedaling"
-              },
-              {
-                "feature": "Custom-engineered geometry and sweptback bars provide a comfortable, upright ride"
-              },
-              {
-                "feature": "Easy-riding single-speed bike is great for quick errands and recreational rides around town"
-              }
-            ]
-          }
-        ]
-      }
-    ]
+  "amp1": {
+    "list2": {
+      "items": [
+        {
+          "cond": "clouds",
+          "condHeader": "Let the clouds spark imagination!",
+          "condProdMsg": "Looks like it might rain! Stock up for outdoors fun!",
+          "condObj": [
+            {
+              "name": "Retro Rush",
+              "url": "https://www.northerntrailoutfitters.com/default/women%E2%80%99s-%E2%80%9992-retro-rush-rain-jacket-2010710.html",
+              "img": "https://www.northerntrailoutfitters.com/on/demandware.static/-/Sites-nto-apparel/default/dw6f177421/images/large/2010710ACT-0.jpg"
+            },
+            {
+              "name": "Anorak Hoodie",
+              "url": "https://www.northerntrailoutfitters.com/default/men%27s-anorak-1010438BBG.html",
+              "img": "https://www.northerntrailoutfitters.com/on/demandware.static/-/Sites-nto-apparel/default/dw72f128a8/images/large/1010438BBG-0.jpg"
+            },
+            {
+              "name": "Rainier Hoodie",
+              "url": "https://www.northerntrailoutfitters.com/default/men%27s-rainier-integrum-primaloft-hoodie-1010271AKF.html",
+              "img": "https://www.northerntrailoutfitters.com/on/demandware.static/-/Sites-nto-apparel/default/dw2e540093/images/large/1010271AKF-0.jpg"
+            }
+          ],
+          "city": "New York"
+        }
+      ]
+    },
+  
+    "list1": {
+      "items": [
+        {
+          "emailSender": null,
+          "products": [
+            {
+              "dayOfWeek": "Wednesday",
+              "dailyMsg": "Happy Wednesday! Looks like you left something in your cart!",
+              "id": "5112783BDS",
+              "url": "https://www.northerntrailoutfitters.com/default/pure-cycles-coaster-bike-5112783BDS.html",
+              "name": "Pure Cycles Coaster Bike",
+              "price": [
+                {
+                  "discounted": false,
+                  "discount_price": "$179.00",
+                  "original_price": "$279.00"
+                }
+              ],
+              "shortDescription": "one speed, no cables, no nonsense : )",
+              "longDescription": "The Pure Cycles Coaster is biking made simple. 1 speed, no cables, no levers, no nonsense-just you, your bike and the road. It's great for quick errands, slow rolls and late-night party rides.",
+              "image": "https://image.s4.sfmc-content.com/lib/fe9815747266017d71/m/1/bafac201-a379-4c95-a4f3-ab08e4239747.jpg",
+              "inventory": [
+                {
+                  "free_ship_incentive": true,
+                  "items_in_stock": "9"
+                }
+              ],
+              "colors": [
+                "green",
+                "red",
+                "yellow",
+                "pink"
+              ],
+              "sizes": [
+                "50cm",
+                "54cm",
+                "58cm"
+              ],
+              "features": [
+                {
+                  "feature": "Hands-free coaster brake allows easy, intuitive stopping—just push back on the pedals to stop"
+                },
+                {
+                  "feature": "Lightweight steel frame is stronger than aluminum and helps to soften the vibrations of the road; sealed bottom bracket supplies smooth pedaling"
+                },
+                {
+                  "feature": "Custom-engineered geometry and sweptback bars provide a comfortable, upright ride"
+                },
+                {
+                  "feature": "Easy-riding single-speed bike is great for quick errands and recreational rides around town"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
   }
 }
